@@ -4,7 +4,7 @@ Team is a simple npm library for distributed computing, at scale.
 You can use team for:
 
 * building microservices architectures
-* parallelize and scale a very long computation
+* parallelize and scale very long computations
 * simplify scalability of your system
 
 It provides:
